@@ -1,1 +1,1 @@
-# my-firrst-website
+# my-first-website
